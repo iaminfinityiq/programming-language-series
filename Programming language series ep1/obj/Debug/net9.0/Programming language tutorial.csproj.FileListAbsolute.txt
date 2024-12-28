@@ -1,0 +1,14 @@
+D:\hehe\C#\Programming languages\Programming language tutorial\bin\Debug\net9.0\Programming language tutorial.exe
+D:\hehe\C#\Programming languages\Programming language tutorial\bin\Debug\net9.0\Programming language tutorial.deps.json
+D:\hehe\C#\Programming languages\Programming language tutorial\bin\Debug\net9.0\Programming language tutorial.runtimeconfig.json
+D:\hehe\C#\Programming languages\Programming language tutorial\bin\Debug\net9.0\Programming language tutorial.dll
+D:\hehe\C#\Programming languages\Programming language tutorial\bin\Debug\net9.0\Programming language tutorial.pdb
+D:\hehe\C#\Programming languages\Programming language tutorial\obj\Debug\net9.0\Programming language tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\hehe\C#\Programming languages\Programming language tutorial\obj\Debug\net9.0\Programming language tutorial.AssemblyInfoInputs.cache
+D:\hehe\C#\Programming languages\Programming language tutorial\obj\Debug\net9.0\Programming language tutorial.AssemblyInfo.cs
+D:\hehe\C#\Programming languages\Programming language tutorial\obj\Debug\net9.0\Programming language tutorial.csproj.CoreCompileInputs.cache
+D:\hehe\C#\Programming languages\Programming language tutorial\obj\Debug\net9.0\Programming language tutorial.dll
+D:\hehe\C#\Programming languages\Programming language tutorial\obj\Debug\net9.0\refint\Programming language tutorial.dll
+D:\hehe\C#\Programming languages\Programming language tutorial\obj\Debug\net9.0\Programming language tutorial.pdb
+D:\hehe\C#\Programming languages\Programming language tutorial\obj\Debug\net9.0\Programming language tutorial.genruntimeconfig.cache
+D:\hehe\C#\Programming languages\Programming language tutorial\obj\Debug\net9.0\ref\Programming language tutorial.dll
